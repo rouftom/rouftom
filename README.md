@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me rouftomb@gmail.com
 
+![Les Stats GitHub de rouftom](https://github-readme-stats.vercel.app/api?username=rouftom&show_icons=true&theme=dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rouftom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 rouftom/rouftom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
