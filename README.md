@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile, web technologies and blockchain
 - 🌱 I’m currently learning Blockchain and DLT
 - 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me rouftomb@gmail.com
+- 📫 How to reach me: rouftom@djotta.shop or rouftomb@gmail.com
 
 ![Les Stats GitHub de rouftom](https://github-readme-stats.vercel.app/api?username=rouftom&show_icons=true&theme=algolia)
 
