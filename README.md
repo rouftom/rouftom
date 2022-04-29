@@ -9,6 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rouftom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://visitcount.itsvg.in/api?id=rouftom&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <!---
 rouftom/rouftom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
