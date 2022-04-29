@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: rouftom@djotta.shop or rouftomb@gmail.com
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rouftom)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Les Stats GitHub de rouftom](https://github-readme-stats.vercel.app/api?username=rouftom&show_icons=true&theme=algolia)
 
 
